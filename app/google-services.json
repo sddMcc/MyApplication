@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625258814274",
+    "firebase_url": "https://notificationdemo-aad44.firebaseio.com",
+    "project_id": "notificationdemo-aad44",
+    "storage_bucket": "notificationdemo-aad44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625258814274:android:bdf37a9e28ba8d79",
+        "android_client_info": {
+          "package_name": "myfirst.agicent.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625258814274-bsfihri2oqnckgntgod4r4vshjs5s70q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myfirst.agicent.com.myapplication",
+            "certificate_hash": "8d065215928ef07bca72e3bbafae8423e77675fb"
+          }
+        },
+        {
+          "client_id": "625258814274-5uoqmf9ruj1a1b511ni0v4qrc01ook89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4GMVS2Ma2RBxxnwm_xk6fIvo0VqPVso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625258814274-5uoqmf9ruj1a1b511ni0v4qrc01ook89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
