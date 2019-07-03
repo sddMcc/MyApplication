@@ -113,4 +113,9 @@ public class Main4Activity extends AppCompatActivity implements View.OnClickList
         }
 
     }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+    }
 }
